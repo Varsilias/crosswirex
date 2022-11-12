@@ -1,0 +1,58 @@
+.bg-img {
+  background-image: url("./assets/bg.png");
+}
+
+/* spacing */
+
+table {
+  table-layout: fixed;
+  min-width: 1000px;
+  border-collapse: collapse;
+  border: 2px solid purple;
+}
+
+thead th:nth-child(1) {
+  width: 10%;
+}
+
+thead th:nth-child(2) {
+  width: 29%;
+}
+
+thead th:nth-child(3) {
+  width: 29%;
+}
+
+thead th:nth-child(4) {
+  width: 29%;
+}
+
+thead th:nth-child(5) {
+  width: 13%;
+}
+
+th,
+td {
+  padding: 20px;
+}
+
+thead th,
+tfoot th {
+  font-family: "Rock Salt", cursive;
+}
+
+th {
+  letter-spacing: 1px;
+}
+
+td {
+  letter-spacing: 0.5px;
+}
+
+tbody td {
+  text-align: center;
+}
+
+tfoot th {
+  text-align: right;
+}

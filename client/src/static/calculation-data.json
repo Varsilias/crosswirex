@@ -1,0 +1,51 @@
+[
+    {
+        "sign": "+",
+        "operands": [
+            20,
+            40,
+            60
+        ],
+        "result": 120,
+        "created_at": "Sat Nov 12 2022"
+    },
+    {
+        "sign": "-",
+        "operands": [
+            120,
+            20,
+            30
+        ],
+        "result": 70,
+        "created_at": "Sat Nov 12 2022"
+    },
+    {
+        "sign": "*",
+        "operands": [
+            25,
+            10
+        ],
+        "result": 250,
+        "created_at": "Sat Nov 12 2022"
+    },
+    {
+        "sign": "+",
+        "operands": [
+            10,
+            40,
+            60
+        ],
+        "result": 110,
+        "created_at": "Sat Nov 12 2022"
+    },
+    {
+        "sign": "/",
+        "operands": [
+            250,
+            10,
+            5
+        ],
+        "result": 5,
+        "created_at": "Sat Nov 12 2022"
+    }
+]
